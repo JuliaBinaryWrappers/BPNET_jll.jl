@@ -1,0 +1,478 @@
+[[BPNET]]
+arch = "aarch64"
+git-tree-sha1 = "3a83d6389c668683b870b5de274651a25fe87c73"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[BPNET.download]]
+    sha256 = "93c78bb1aa13fea7978c0337a85a722db1d7c74ffd947ed5f969ae99dbbce6c4"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "aarch64"
+git-tree-sha1 = "e44a20ce0700f5a4913920d3eb009e2a8bb92aab"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "415d16d35c72ca8d38ca4f940019ada7c068db3ed374f7c25425578545432940"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "aarch64"
+git-tree-sha1 = "a1889f7140ccafbcfc168d29017fdac67a750e9b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "eea42b690ec717ca0c04545d37ad411b477781dccd9a1b8ceb756310de1ff4b5"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "aarch64"
+git-tree-sha1 = "afc552440e07c0e98b6a340e132da907faa89558"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "e1e5d2a4c5cc420ab4c6f246770f5321a4d768b2d7955848de35fa4072fd6578"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "aarch64"
+git-tree-sha1 = "e762550f2eabf312365801dc5958d8da73e472d8"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "b3981b5b0e2c3acecda59f7d742dc0d7e2faaf112b59ea257f8f13e9cc49aad3"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.aarch64-linux-musl-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "aarch64"
+git-tree-sha1 = "43dd3489db787455af1dd319edd1e4a457d9c6d1"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "8331088dc7351dc7bce883001f7a97a5fad3aab53ac6fc42db20d3b685711e28"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.aarch64-linux-musl-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "aarch64"
+git-tree-sha1 = "c05c2adfd24a072e49400a3fe5df66e28c3b4481"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "62db0bd59a7b989c220cddeb62d14a936cb3da54c7127a90a19e22afc9b2d4c1"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.aarch64-linux-musl-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "aarch64"
+git-tree-sha1 = "20910fbcef5aaee1ea20294e67a8cf3a1e2c2541"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[BPNET.download]]
+    sha256 = "d6ccaf9dd052fdb8cbeadaa45daa0632f59b04018c77480465a0116b552a52bd"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cd0bd10e6163c547ab85e93784d918fbeeb7c8d3"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "630da1e2f76a2f29190e1a213907073af6506566e950d8498f79c4d29d18a436"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "a4043e3a5d27d6f5b8af81fa144ff55fcdf5015a"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "324055d81a475e22740aa63b57cf11251b11e31d71c4ffb34acc5940b8cd5252"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "73f40b7758bc01288d3c5089516d9c5c1cef2e7d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "302a6a996a03fafdd59fa687eff8edd1c17c70d1d6ac2d52bbc01aba6add85aa"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "72cae9d3d699a8b2379c86abc80cb7d32f3d9618"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "1dcf3092c6d15ad550bca5d62c8254e90ca027bd235a7d5650c304642a2668b9"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1b50dd9f43b006ad02472147150e05128ea6ed84"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "b9e51d89b3394ec04527b69e2847198967cbfc1238cef96250e71c7627dbbf2c"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "644c3533d7e4f1f7a98ba49c3a73220aa3f7939e"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "9af53526b6ac56bb6f8ad232b6ef227f1bc17c0f197d714344255f5f899a747d"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3322652ed4d1042438dee7e1b1ccc030d758876b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "a0e772b0688bd60c8651b716a59710d47e30328207db9736b51aa9ad995c3310"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e7ffbfadd064ff0bfcef8b5680440da50f4c5a9c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "d419aeabf3364506a8c969b67cdd125be25d662551d13d07fe86ad31012a6055"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bd6a2a609dcd67758340c330204f3768936df317"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "1ab825e921e02295614b832a3fcfc67b80379fa5ae397db70e72adc23d607511"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fd921889cef0fb8c3265b8fd6c84167c0f38c79f"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "7eae5d4af6a2c0447c5f95aaf8e4e220470f557a59806e7e00f471e42542f021"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "44ec8dca1bfc1ad9804e3125a5ed462d74a09b91"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "e5fa0f2a1168db56d7009385ece181bd57aac2f9f6796dd8e4f98ca497872b7b"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c1aeb75bf1e9e544f76e1229d685fd9ed87b5347"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "6413a634d6982ffa796f011a482e4eaada723fb01df78e05d401100a797f1c47"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "i686"
+git-tree-sha1 = "40dad62f23bfdf26a1be87a2d6f55b131fddba76"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "eeac95ef64bcd5886bfb1178be2173adc074d0cc710935c2cd7e29d5184ac7a9"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.i686-linux-gnu-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "i686"
+git-tree-sha1 = "f14f659c9e51207fd8207006d09d7539a7074a08"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "6b2011a51d7ef0267bd0ed08ee2da94b0fe557c470f3a486c0e1aea73f131251"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.i686-linux-gnu-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "i686"
+git-tree-sha1 = "6854d627a059f89e2f12e5a2bb15e33823d1114b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "ac04f54704362d0735134b61f156d1fdc7a5caaf299104c367edafbcd78f4b44"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.i686-linux-gnu-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "i686"
+git-tree-sha1 = "c631ad49f1342ba4cec2edf80f21196a417f1735"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "715428c121370b38e2065320d437aab720fa9bfd06056365b9e14296118593e1"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.i686-linux-musl-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "i686"
+git-tree-sha1 = "b2568fc1f68c5d5d724b0ffea649f6f40a320bda"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "40edd0c2d0455f909a650547a5c96b25e6a04cd3e7b0944df82a7d15bcf9d523"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.i686-linux-musl-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "i686"
+git-tree-sha1 = "d458ed04f37856fa4340e50b21e015c23052e29c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "f879103b6c9fa006a7da7404399b947d81bcf87a61687cf7908acc363db6cf70"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.i686-linux-musl-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "i686"
+git-tree-sha1 = "3db91cb4ff323e895876fee133c928002bb55f10"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[BPNET.download]]
+    sha256 = "424a31cfe1f5b5a8880af928dddb20bee751908fb204200f241dcb667e6ddbeb"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.i686-w64-mingw32-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "i686"
+git-tree-sha1 = "0b01887b82872c21ca39ffae2541949bd7ca2ebe"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[BPNET.download]]
+    sha256 = "8861d38099c7485e3603314de06badacabc22110825fa889ce2b130ef78123e4"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.i686-w64-mingw32-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "i686"
+git-tree-sha1 = "2891103bd5d56b83746d8c3951d1432b408debad"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[BPNET.download]]
+    sha256 = "9d6715070e0ac59201968e060b6448829d8a32c899a976d7a2789dcbde0308c1"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.i686-w64-mingw32-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "powerpc64le"
+git-tree-sha1 = "01b292d3d10e5347dca90b10d0c43baebb231b0f"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "131dc2474a6b3aebedd6b31c136a70d0b6c52569318199d05eb312a1a5e53163"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "powerpc64le"
+git-tree-sha1 = "8273548fbc0b67af3e5e9d82cf9c8c8f9259aa28"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "0028c63b75fc3ac242ddc0b7a82e89a486753e0756622f569f3b824f777c8673"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "powerpc64le"
+git-tree-sha1 = "3a7da81accec8452673d5233303e13d5e25263bb"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "4bcb92ad925b4739db80bef85537e75918c8c95e1fff8d64f846387da8866255"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "riscv64"
+git-tree-sha1 = "d87178144984da18c44a3ed2b1bc2f022ef024b8"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "2d7386ccceb3d829d65397ebe6ee76bc8a302ab391759ff78a5d708e0e379397"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.riscv64-linux-gnu-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "eaa9d7357633818b17a9e0b674105fd98bc97303"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[BPNET.download]]
+    sha256 = "4748319ab372f499225932d175d4c3e27cd3ba8efbd31f3bf2989186f3032a24"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "10508e76f9ba01ec38858e5470843b6b0aa540a4"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[BPNET.download]]
+    sha256 = "f80ca90492d6a8f801e97d1e1adf8789e5b0e6beb5d9d9470cc70f5da68683c2"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "f9a90a3904355773b7200582bb15641915b47345"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[BPNET.download]]
+    sha256 = "fa67bdeebaa35e22729916de72af0174de314d0416067bf3262060d110b9bc72"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "58bd14fb7766bb6bd0d41c5adfb84106e42a8d96"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "e7c3d68d19869794a533b4f73af824e0816a30c140db6c107d500f4a64c48094"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "bc5d0a0e3d53aba4496935fae3277fbbe6f0ebf1"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "1aa4e54a6d2089ac214aa7b694c033cfdd75b94f4419ac4fffca5e44109874ab"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "607eac2b3463c14e53a8d1c2471d64b0a69f7814"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "b0b19000a860b5d524fbebde851d6dbcbb181e5cfdd5ec09c4ca7af529e988d7"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "15190e628686c70df8eb2f14a4d1d37b5df9c60d"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "5da01404e1c925dc02e4260282ae28f960dda347ba6cfd6260103836a0984075"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-linux-musl-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "2503581a5b46a652d980870ff5246f88a302f32d"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "83cedc408ce53095983cf43f7b3b230277ea6fd552e11a1d3a92dc9d31fe3bed"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-linux-musl-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "7894788dd1da219ec2451d39e14549f03ccf5189"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[BPNET.download]]
+    sha256 = "2e6a1aded055823f7609601e5252414c8220d67f4d3784dfe697b5c6e93a8e3a"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-linux-musl-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "5d1bd135be8d477071be8fef224dac7a8c7986b4"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[BPNET.download]]
+    sha256 = "7c4801c7acaefae2f31e394d89feaa3e9c1787ebfa581a73999fea80b8e974b2"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "c1f0680f07f88ce3e5c5de5d9e6dcb62bb0f9c41"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[BPNET.download]]
+    sha256 = "c177a0b21021e70038f7c78c120f4ff68ad7da530dfcc78f1c31726c1e6c2e9b"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "63a3da0fe35c551a67a9324ea6375593e8990a6d"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[BPNET.download]]
+    sha256 = "d2650e3d21239a36c85e1d4928adab6eccae4a90b6f69e73bb08d99540686f79"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "bdad7f462f2a99369f859a240fb9924b1994b7b1"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[BPNET.download]]
+    sha256 = "116e269e46958dd38deea6f7e284f7137f2a5e9079c8f78fa6b969b45b4da95c"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "ee57878251d6fd8f5dea9b8edfd8b59592ffec2a"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[BPNET.download]]
+    sha256 = "afb6e29e48744debe061f62aea2c732d8744e8f91aae60459818e92d9a77a12d"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[BPNET]]
+arch = "x86_64"
+git-tree-sha1 = "56ca94db62ac639c9517eed0ee5a38fa6783a0e8"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[BPNET.download]]
+    sha256 = "009a89481b0e66e5c24e2528d4320840cb949e53aab240e58f156199baad6101"
+    url = "https://github.com/JuliaBinaryWrappers/BPNET_jll.jl/releases/download/BPNET-v0.0.2+0/BPNET.v0.0.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
